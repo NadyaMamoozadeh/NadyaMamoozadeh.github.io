@@ -20,10 +20,12 @@ author: Nadya Mamoozadeh
 ###############################################
 
 navbar-links:
-  About: "aboutme"
+  People: "aboutme"
+  Research: "research"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+  Join the lab: "joinlab"
   Author's home: "https://deanattali.com"
 
 ################
