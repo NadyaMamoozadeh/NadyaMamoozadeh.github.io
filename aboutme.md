@@ -5,7 +5,7 @@ subtitle: Meet our lab members
 ---
 
 ### Principal Investigator
-![Nadya](https://www.nadyamamoozadeh.github.io/assets/img/nadya.png)
+![nadya](/assets/img/nadya.png)
 Nadya Mamoozadeh
 
 
